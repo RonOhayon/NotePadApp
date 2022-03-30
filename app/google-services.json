@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "647247359278",
+    "project_id": "moveohometask-95f13",
+    "storage_bucket": "moveohometask-95f13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647247359278:android:74c2c6df3ba138c4035ebf",
+        "android_client_info": {
+          "package_name": "com.ronoh.moveohometask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647247359278-euia27j57i3murvj1cpuvn3q80lb2c02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrSqLtuWqOmdlNQS92_XAIFvWZy2VAqH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647247359278-euia27j57i3murvj1cpuvn3q80lb2c02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
